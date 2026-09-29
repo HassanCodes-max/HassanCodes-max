@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hassan Ali</h1>
 
 <h3 align="center">
-🤖 AI/ML Engineer in Progress | 🧠 Deep Learning | ⚡ Generative AI | 🔬 AI Research
+🤖 AI/ML Engineer | 🧠 Deep Learning | ⚡ Generative AI | 🔬 AI Research |  Multimodals in Progress
 </h3>
 
 <p align="center">
