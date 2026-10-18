@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hassan Ali</h1>
 
 <h3 align="center">
-🤖 AI/ML Engineer | 🧠 Deep Learning | ⚡ Generative AI | 🔬 AI Research |  Multimodals in Progress
+🤖 AI/ML Engineer | 🧠 Deep Learning | ⚡ Generative AI | 🔬 AI Research | 🛩️ Autonomous Systems in Progress
 </h3>
 
 <p align="center">
-Computer Science student building my journey from Python and Data Analysis to Machine Learning, Deep Learning, Transformers, Generative AI, RAG, and Vision-Language Models.
+Computer Science student building my journey from Python and Data Analysis to Machine Learning, Deep Learning, Transformers, Generative AI, RAG, and now Robotics and Autonomous Systems.
 </p>
 
 <p align="center">
@@ -26,9 +26,8 @@ I enjoy understanding AI from the fundamentals — from mathematics and algorith
 🔄 <b>RNNs & Attention</b> →
 ⚡ <b>Transformers</b> →
 ✨ <b>Generative AI</b> →
-💬 <b>LLMs</b> →
 📚 <b>RAG</b> →
-👁️ <b>VLMs</b>
+🛩️ <b>Autonomous Systems</b>
 
 </p>
 
@@ -57,6 +56,59 @@ I enjoy understanding AI from the fundamentals — from mathematics and algorith
 <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Generative%20AI-FF4B4B?style=for-the-badge"/>
 </p>
+
+---
+
+<h2 align="center">🚧 In Progress</h2>
+
+### 🚀 Starting a New Journey: AI × Robotics × Autonomous Systems
+
+I've spent the past months building my foundation in Machine Learning, Deep Learning, Computer Vision, Transformers, and Generative AI.
+Now I'm taking the next step — moving from models and algorithms toward real-world autonomous systems.
+
+**🤖 My roadmap ahead:**
+
+* 📍 Advanced Computer Vision
+* 📡 Localization & SLAM
+* 🛰️ Sensor Fusion & 3D Perception
+* 🤖 Robotics
+* 🛩️ ROS 2 & PX4
+* 🧠 Autonomous UAVs
+* ⚡ Edge AI & Real-Time Inference
+* 🔬 Reinforcement Learning
+* 🚀 Advanced Autonomy
+
+The goal is not just to learn AI, but to understand how AI can solve real-world problems through autonomous machines.
+
+**From AI models → to intelligent autonomous systems.**
+
+---
+
+<h2 align="center">✅ Completed Project</h2>
+
+### 🏁 𝗣𝗥𝗖 𝗗𝗮𝘁𝗮 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲 𝟮𝟬𝟮𝟲 — 𝗪𝗵𝗮𝘁 𝗮 𝗝𝗼𝘂𝗿𝗻𝗲𝘆! ✈️📊
+
+After weeks of experimentation, model development, and continuous improvement, our journey in the PRC Data Challenge 2026 has officially come to an end!
+
+Our team worked on a real-world aviation machine learning problem: **predicting aircraft taxi-out time across 10 European airports**. The objective was to predict how long an aircraft would spend taxiing before takeoff, helping improve operational planning and airport efficiency.
+
+### 📊 𝗢𝘂𝗿 𝗙𝗶𝗻𝗮𝗹 𝗥𝗲𝘀𝘂𝗹𝘁
+
+| | |
+|---|---|
+| 🎯 **Our Final RMSE** | **247** |
+| 🏆 **Winning RMSE** | **208** |
+| 🤝 **Team** | Fatima Abdullah, Huzaifa, and Hassan Ali |
+
+Throughout the competition, we worked on understanding the data, exploring patterns, engineering useful features, experimenting with machine learning approaches, and improving our predictions through iterative experimentation and evaluation.
+
+One of the biggest lessons was that building a competitive ML solution goes far beyond training a model. Data understanding, feature engineering, validation, error analysis, and data-driven decisions all play a crucial role.
+
+Although we didn't take home the prize, finishing with a score this close to the winning RMSE is something we're proud of. With a £5,000 prize at stake, the competition pushed us to think critically, experiment consistently, and learn from every iteration.
+
+A huge thanks to my teammates for being part of this journey. 🤝
+
+**Skills used:** Data preprocessing & cleaning • Feature engineering • Ranking-based features • Temporal patterns • Model experimentation • Prediction pipelines • RMSE optimization
 
 ---
 
@@ -116,30 +168,6 @@ I enjoy understanding AI from the fundamentals — from mathematics and algorith
 * RAG
 * LLM Applications
 
-### 👁️ Current Direction
-
-Currently pursuing **Vision-Language Models (VLMs)** and **Multimodal AI**, exploring how vision and language can be combined to build more capable intelligent systems.
-
----
-
-<h2 align="center">🏆 Current Project</h2>
-
-### 🚦 PRC Challenge — Machine Learning
-
-Currently working with my team **Logical-Ladder** on a real-world machine learning prediction challenge.
-
-The project involves large-scale tabular data, data cleaning, feature engineering, ranking-based features, temporal patterns, model experimentation, and **RMSE optimization**.
-
-**Current Focus:**
-
-* Data preprocessing & cleaning
-* Feature engineering
-* Ranking-based features
-* Temporal patterns
-* Model experimentation
-* Prediction pipelines
-* RMSE optimization
-
 ---
 
 <h2 align="center">📂 More Projects</h2>
@@ -154,7 +182,7 @@ I've worked on projects and experiments across
 </p>
 
 <p align="center">
-<a href="https://github.com/nzcvbs9u7-a11y?tab=repositories">
+<a href="https://github.com/HassanCodes-max?tab=repositories">
 <img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
@@ -167,8 +195,8 @@ I've worked on projects and experiments across
 
 Machine Learning • Deep Learning • Computer Vision<br>
 Transformers • Generative AI • LLMs<br>
-RAG • Multimodal AI • Vision-Language Models<br>
-AI Research • MLOps • Intelligent Systems
+Robotics • Autonomous UAVs • SLAM & Sensor Fusion<br>
+AI Research • Edge AI • Intelligent Systems
 
 </p>
 
@@ -200,9 +228,9 @@ AI Research • MLOps • Intelligent Systems
 
 <p align="center">
 
+🛩️ Autonomous Systems & UAVs<br>
+🤖 Robotics & Real-Time AI<br>
 🧠 Deep Learning Engineering<br>
-🤖 Generative AI & LLM Engineering<br>
-👁️ Vision-Language Models<br>
 🔬 AI/ML Research<br>
 ⚙️ MLOps & AI Deployment<br>
 🌎 Open Source & Research Opportunities
@@ -230,12 +258,12 @@ LangChain • RAG • Transformers • LLMs • Streamlit
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nzcvbs9u7-a11y&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzcvbs9u7-a11y&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HassanCodes-max&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanCodes-max&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=nzcvbs9u7-a11y&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=HassanCodes-max&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -252,7 +280,7 @@ LangChain • RAG • Transformers • LLMs • Streamlit
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/nzcvbs9u7-a11y">
+<a href="https://github.com/HassanCodes-max">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -265,3 +293,4 @@ LangChain • RAG • Transformers • LLMs • Streamlit
 <h3 align="center">
 "Understand the mathematics. Build the system. Keep learning. 🚀"
 </h3>
+</document_content>
